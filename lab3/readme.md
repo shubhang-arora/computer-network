@@ -1,4 +1,4 @@
-Streaming Audio/Video Over UDP
+ Reliable data transfer over UDP
 
 Commands to run the server
 * cd computer-network/lab3/server
